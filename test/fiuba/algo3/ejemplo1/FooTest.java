@@ -12,6 +12,8 @@ public class FooTest {
         Assert.assertEquals("Foo", result);
 	}
 	
+
+	//unComentario	
 	/*
 	@Test
 	public void doBarShouldReturnBar(){
